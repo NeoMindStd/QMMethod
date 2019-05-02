@@ -3,6 +3,7 @@
 // 현재 입력 size가 16임을 가정
 void input(passStruct passed, bool isDebugMode)
 {
+	printf("\n\n\n");
 	if (isDebugMode) printf("input() running. size: %d\n", passed.size);
 
 	// 만약 주어진 항 크기가 충분치 않다면 그 이후 항은 모두 돈케어로 간주
