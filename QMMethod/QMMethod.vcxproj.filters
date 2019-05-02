@@ -18,5 +18,13 @@
     <ClCompile Include="qm.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="method.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="method.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
